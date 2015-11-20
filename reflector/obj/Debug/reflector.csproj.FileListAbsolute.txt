@@ -1,0 +1,9 @@
+C:\Users\jholt\Documents\Visual Studio 2015\Projects\reflector\reflector\bin\Debug\reflector.exe.config
+C:\Users\jholt\Documents\Visual Studio 2015\Projects\reflector\reflector\bin\Debug\reflector.exe
+C:\Users\jholt\Documents\Visual Studio 2015\Projects\reflector\reflector\bin\Debug\reflector.pdb
+C:\Users\jholt\Documents\Visual Studio 2015\Projects\reflector\reflector\obj\Debug\reflector.csprojResolveAssemblyReference.cache
+C:\Users\jholt\Documents\Visual Studio 2015\Projects\reflector\reflector\obj\Debug\reflector.Form1.resources
+C:\Users\jholt\Documents\Visual Studio 2015\Projects\reflector\reflector\obj\Debug\reflector.Properties.Resources.resources
+C:\Users\jholt\Documents\Visual Studio 2015\Projects\reflector\reflector\obj\Debug\reflector.csproj.GenerateResource.Cache
+C:\Users\jholt\Documents\Visual Studio 2015\Projects\reflector\reflector\obj\Debug\reflector.exe
+C:\Users\jholt\Documents\Visual Studio 2015\Projects\reflector\reflector\obj\Debug\reflector.pdb
